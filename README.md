@@ -70,9 +70,6 @@
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkadam03&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" /> </p>
 
-### 🐍 Contribution Snake Animation
-
-<p align="center"> <img src="https://raw.githubusercontent.com/ashishkadam03/ashishkadam03/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p>
 
 ### 🎯 Profile Views & Visitors
 
