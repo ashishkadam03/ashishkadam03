@@ -54,33 +54,26 @@
 - I love learning by **breaking things and fixing them again** 😄
 
 ---
+### 🛠️✨ Languages & Tools
 
-### 🛠️ Languages and Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" alt="Skill Icons" /> </p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code)
+### 📈🚀 GitHub Stats & Activity
 
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashishkadam03&show_icons=true&theme=radical&border_radius=15" width="47%" alt="Ashish's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkadam03&theme=radical&border_radius=15" width="47%" alt="Ashish's GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkadam03&layout=compact&theme=radical&langs_count=8&border_radius=15" width="60%" alt="Ashish's Top Languages" /> </p>
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishkadam03&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkadam03&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkadam03&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ashishkadam03&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" /> </p>
 
----
+### 🌐 Contribution Graph
 
-### 🌐 Let's Connect
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkadam03&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" /> </p>
 
-<p align="center">
-  <a href="mailto:ashishkadam0709@gmail.com">
-<img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
-  <!-- Add your LinkedIn or portfolio when ready -->
-</p>
+### 🐍 Contribution Snake Animation
+
+<p align="center"> <img src="https://raw.githubusercontent.com/ashishkadam03/ashishkadam03/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p>
+
+### 🎯 Profile Views & Visitors
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashishkadam03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> <img src="https://hit.yhype.me/github/profile?user_id=ashishkadam03" alt="Visitors" /> </p>
