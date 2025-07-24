@@ -58,27 +58,6 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" alt="Skill Icons" /> </p>
 
-### 📈🚀 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishkadam03&show_icons=true&theme=radical&border_radius=15" width="47%" alt="Ashish's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkadam03&theme=radical&border_radius=15" width="47%" alt="Ashish's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkadam03&layout=compact&theme=radical&langs_count=8&border_radius=15" width="60%" alt="Ashish's Top Languages" />
-</p>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishkadam03&theme=radical&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-
-### 🏆 GitHub Trophies
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ashishkadam03&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" /> </p>
-
 ### 🌐 Contribution Graph
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkadam03&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" /> </p>
