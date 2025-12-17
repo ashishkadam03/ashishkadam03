@@ -23,7 +23,7 @@
 
 ### 🌱 I’m currently learning
 
-- **MySQL**, **PowerBI**, and **MangoDB**
+- **JAVASCRIPT**, **REACT**, and **MangoDB**
 - Exploring **Large Databases ** and **APIs**
 
 ---
@@ -37,7 +37,7 @@
 ### 💬 Ask me about
 
 - python basics
-- HTML,CSS,POWERBI,MYSQL,SQL Lite
+- HTML,CSS,JAVASCRIPT
 - My learning journey as a fresher in tech
 
 ---
